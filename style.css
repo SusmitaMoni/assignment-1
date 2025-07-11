@@ -1,0 +1,79 @@
+body {
+  background-color: #f5f8ff;
+}
+
+.banner {
+  background-image: url(img/Hero-bg.png);
+  background-size: cover;
+  background-repeat: none;
+}
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: ;
+}
+.logo {
+  color: #4e47ff;
+  font-size: 100px;
+  font-weight: bold;
+  margin: 50px;
+}
+.sign {
+  background-color: #4e47ff;
+  font-size: 30px;
+  color: white;
+
+  margin-right: 30px;
+  cursor: pointer;
+  padding: 1px;
+  border-radius: 5px;
+}
+.sign:hover {
+  background-color: rgb(25, 131, 224);
+}
+.cool {
+  text-align: center;
+  font-size: 80px;
+  color: #252432;
+}
+.stay {
+  background-color: #4e47ff;
+  color: white;
+  border-radius: 10px;
+  margin-left: 650px;
+  padding: 10px;
+}
+.stay:hover {
+  background-color: #47a3ff;
+}
+#see {
+  font-size: 30px;
+  color: #252432;
+}
+.container {
+  display: flex;
+  padding-top: 100px;
+  justify-content: space-around;
+}
+#Explore {
+  color: #25243281;
+  font-size: 20px;
+}
+.Lunch {
+  color: white;
+  background-color: #4e47ff;
+  border-radius: 5px;
+}
+.Lunch:hover {
+  background-color: #47a3ff;
+}
+.Joined {
+  background-color: #4d47ff4d;
+  padding: 20px;
+  margin: 100px;
+  color: #252432;
+  font-size: 20px;
+  font-weight: bold;
+  text-align: center;
+}
