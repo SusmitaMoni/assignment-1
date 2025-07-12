@@ -69,11 +69,68 @@ body {
   background-color: #47a3ff;
 }
 .Joined {
-  background-color: #4d47ff4d;
+  background-color: #4d47ff20;
   padding: 20px;
   margin: 100px;
   color: #252432;
-  font-size: 20px;
+  font-size: 40px;
   font-weight: bold;
   text-align: center;
+}
+.img1 {
+  border-radius: 10%;
+}
+.about {
+  display: flex;
+  justify-content: center;
+  gap: 100px;
+}
+.number {
+  color: #4e47ff;
+  font-size: 50px;
+}
+.user {
+  color: #2524329e;
+}
+.user-say {
+  text-align: center;
+  color: #252432;
+  font-size: 30px;
+  font-weight: bold;
+}
+.designer {
+  display: flex;
+}
+.part {
+  display: flex;
+  justify-content: center;
+  flex-direction: row;
+}
+.Vertex {
+  color: #252432a5;
+}
+.review {
+  display: flex;
+  gap: 10px;
+}
+.fot {
+  padding: 5%;
+  background: white;
+}
+.fot-logo {
+  color: #4e47ff;
+  text-align: center;
+  font-size: 50px;
+  font-weight: bolder;
+}
+.fot-dis {
+  color: #25243285;
+  text-align: center;
+}
+.fot-ul {
+  list-style: none;
+  display: flex;
+  color: #25243289;
+  justify-content: center;
+  gap: 10px;
 }
