@@ -104,7 +104,6 @@ body {
 .part {
   display: flex;
   justify-content: center;
-  flex-direction: row;
 }
 .Vertex {
   color: #252432a5;
@@ -112,6 +111,27 @@ body {
 .review {
   display: flex;
   gap: 10px;
+}
+.get {
+  font-size: 50px;
+}
+.lets {
+  display: flex;
+  justify-content: center;
+  padding: 40px;
+  gap: 30px;
+}
+.last-btn {
+  color: #f5f8ff;
+  background-color: #4e47ff;
+}
+.last-btn:hover {
+  background-color: #47a3ff;
+}
+.frm {
+  margin: 25px;
+  font-size: 30px;
+  padding: 30px;
 }
 .fot {
   padding: 5%;
